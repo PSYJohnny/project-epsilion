@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="description">
+  <meta name="keywords" content="keywords">
+  <meta name="author" content="author">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pillermen Gang Relations<title>
+  <style>
+    table {
+      font-size: 12px;
+      font: monospace;
+      
+    }
+    .class {
+    
+    }
+    #id {
+    
+    }
+  </style>
+</head>
+<body>
+  <style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-konv{border-color:#000000;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top;
+  will-change:transform}
+.tg .tg-vwo1{background-color:#000000;border-color:#000000;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-077p{background-color:#000000;border-color:#000000;text-align:center;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+<div class="tg-wrap"><table class="tg">
+<thead>
+  <tr>
+    <th class="tg-konv">Gang</th>
+    <th class="tg-konv">Relation</th>
+    <th class="tg-konv">ID</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">Death Row</span></td>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">Ally</span></td>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">7333953099165860251597403278186</span></td>
+  </tr>
+  <tr>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">Passione Reformed</span></td>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">Ally</span></td>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">4004941411482337281606370818007</span></td>
+  </tr>
+  <tr>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">thorn</span></td>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">Ally</span></td>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">5746161904004628611599551199707</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vwo1" colspan="3"></td>
+  </tr>
+  <tr>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">Gang Gang</span></td>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">Neutral</span></td>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">7221007802025903281603752276557</span></td>
+  </tr>
+  <tr>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">Microwave</span></td>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">Neutral</span></td>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">6403008736707215961596933951719</span></td>
+  </tr>
+  <tr>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">Palatines of OIL</span></td>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">Neutral</span></td>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">6690267169492828261601792138628</span></td>
+  </tr>
+  <tr>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">Turtle Gang</span></td>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">Neutral</span></td>
+    <td class="tg-wp8o"><span style="font-weight:500;font-style:normal">3154484951360471041600106805667</span></td>
+  </tr>
+  <tr>
+    <td class="tg-077p" colspan="3"></td>
+  </tr>
+  <tr>
+    <td class="tg-wp8o"></td>
+    <td class="tg-wp8o"></td>
+    <td class="tg-wp8o"></td>
+  </tr>
+</tbody>
+</table></div>
+</body>
+</html>
