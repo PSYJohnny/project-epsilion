@@ -10,7 +10,7 @@
   <style>
     body {
       font-size: 12px;
-      font: monospace;
+      font-family: monospace;
   </style>
 </head>
 <body>
