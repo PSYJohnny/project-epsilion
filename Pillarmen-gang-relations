@@ -6,19 +6,11 @@
   <meta name="keywords" content="keywords">
   <meta name="author" content="author">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Pillermen Gang Relations<title>
+  <title>Pillermen Gang Relations</title>
   <style>
     table {
       font-size: 12px;
       font: monospace;
-      
-    }
-    .class {
-    
-    }
-    #id {
-    
-    }
   </style>
 </head>
 <body>
